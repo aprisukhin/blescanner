@@ -1,10 +1,9 @@
 import SwiftUI
 
-@main
-struct BLEScannerApp: App {
+struct InfoDevise: View {
     var body: some Scene {
         WindowGroup {
-            MainView()
+            ContentView2()
         }
     }
 }
